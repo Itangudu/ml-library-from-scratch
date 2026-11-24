@@ -45,10 +45,13 @@ for it to count as done.
 | 17 | LSTM with backprop through time | Planned |
 
 ## Repository layout
+
+```
 src/        implementations
 specs/      what each module must do to be considered done
 notes/      derivations and explanations
 PROGRESS.md current status and next steps
+```
 
 ## Requirements
 
